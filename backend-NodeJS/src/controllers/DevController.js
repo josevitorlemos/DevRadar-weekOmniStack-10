@@ -39,7 +39,7 @@ module.exports = {
       });
     }
 
-    return res.json({ dev });
+    return res.json( dev );
   },
 
   async update(req, res) {
