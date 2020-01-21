@@ -16,7 +16,7 @@ import DevForm from './components/DevFrom';
 
 //Estado: É uma informação mantida pelo componente. (Conceito de Imutabilidade)
 
-//UseState: Uma função criada pelo React, uma funçãwo mantida pelo componente, lida e atualizada.
+//UseState: Uma função criada pelo React, uma função mantida pelo componente, lida e atualizada.
 //props: São todas propriedades passadas para o primeiro parametro da Func.
 
 
